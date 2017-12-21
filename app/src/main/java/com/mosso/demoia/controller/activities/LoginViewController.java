@@ -16,6 +16,7 @@ import com.mosso.demoia.http.RetrofitClient;
 import com.mosso.demoia.models.response.UsuarioModel;
 import com.mosso.demoia.tools.AlertDialogLoading;
 import com.mosso.demoia.tools.Constantes;
+import com.mosso.demoia.tools.DialogError;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -87,8 +88,8 @@ public class LoginViewController extends AppCompatActivity {
                 }else{
                     //Datos No coiciden
                     alertDialogLoading.closeMessage();
-                    System.out.println("ERROR");
-                    System.out.println(response.message());
+                    new DialogError(LoginViewController.this,getString(R.string.mensaje_error),R.drawable.ic_insta_icon);
+
                 }
             }
             @Override

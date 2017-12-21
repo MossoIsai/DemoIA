@@ -4,5 +4,6 @@
     <string name="item_perfil">Perfil</string>
     <string name="item_peliculas">Películas</string>
     <string name="item_ubicacion">Ubicación</string>
+    <string name="mensaje_error">El usuario y/o el contraseña es incorrecta, Verifica los datos e intenta de nuevo</string>
 
 </resources>

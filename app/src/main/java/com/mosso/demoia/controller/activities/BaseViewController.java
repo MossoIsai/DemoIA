@@ -10,6 +10,7 @@ import android.widget.FrameLayout;
 import com.aurelhubert.ahbottomnavigation.AHBottomNavigation;
 import com.aurelhubert.ahbottomnavigation.AHBottomNavigationItem;
 import com.mosso.demoia.R;
+import com.mosso.demoia.controller.fragment.CarteleraFragment;
 import com.mosso.demoia.controller.fragment.PerfilFragment;
 
 import butterknife.BindView;
@@ -38,16 +39,13 @@ public class BaseViewController extends AppCompatActivity {
     public void initViews(){
 
         AHBottomNavigationItem itemCartelera = new AHBottomNavigationItem(getString(R.string.item_perfil),R.drawable.item_perfil);
-        AHBottomNavigationItem itemPeliculas = new AHBottomNavigationItem(getString(R.string.item_peliculas),R.drawable.ic_insta_icon);
-        AHBottomNavigationItem itemUbicacion = new AHBottomNavigationItem(getString(R.string.item_ubicacion),R.drawable.ic_insta_icon);
-        AHBottomNavigationItem itemPerfil = new AHBottomNavigationItem(getString(R.string.item_perfil),R.drawable.ic_insta_icon);
+        AHBottomNavigationItem itemPeliculas = new AHBottomNavigationItem(getString(R.string.item_cartelera),R.drawable.palomas);
+        AHBottomNavigationItem itemUbicacion = new AHBottomNavigationItem(getString(R.string.item_ubicacion),R.drawable.gps);
 
         ahBottomNavigation.addItem(itemCartelera);
         ahBottomNavigation.addItem(itemPeliculas);
         ahBottomNavigation.addItem(itemUbicacion);
-        ahBottomNavigation.addItem(itemPerfil);
 
-        ahBottomNavigation.setTitleState(AHBottomNavigation.TitleState.ALWAYS_SHOW);
         ahBottomNavigation.setTitleState(AHBottomNavigation.TitleState.ALWAYS_SHOW);
         ahBottomNavigation.setTitleState(AHBottomNavigation.TitleState.ALWAYS_SHOW);
         ahBottomNavigation.setTitleState(AHBottomNavigation.TitleState.ALWAYS_SHOW);
@@ -65,6 +63,8 @@ public class BaseViewController extends AppCompatActivity {
         ahBottomNavigation.setOnTabSelectedListener(new AHBottomNavigation.OnTabSelectedListener() {
             @Override
             public boolean onTabSelected(int position, boolean wasSelected) {
+
+
                 if (currentPosition == position) {
 
                 } else {
@@ -85,10 +85,10 @@ public class BaseViewController extends AppCompatActivity {
                             System.out.println("POSICION ACTUAL: " + currentPosition);
                             FragmentManager fragmentManager2 = getSupportFragmentManager();
                             FragmentTransaction fragmentTransaction2 = fragmentManager2.beginTransaction();
-                            PerfilFragment perfilFragment2 = new PerfilFragment();
+                            CarteleraFragment carteleraFragment = new CarteleraFragment();
                             /**menuViewController.setArguments(bundle);**/
-                            fragmentTransaction2.add(R.id.myFragemnt, perfilFragment2);
-                            fragmentTransaction2.replace(R.id.myFragemnt, perfilFragment2);
+                            fragmentTransaction2.add(R.id.myFragemnt, carteleraFragment);
+                            fragmentTransaction2.replace(R.id.myFragemnt, carteleraFragment);
                             fragmentTransaction2.commit();
                             return  true;
                         case 2:

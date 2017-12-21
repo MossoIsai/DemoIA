@@ -29,12 +29,6 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".controller.activities.PerfilViewController"
-            android:theme="@style/AppTheme.NoActionBarStatusBar_Transalucent"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden|stateUnchanged">
-        </activity>
-
         <activity android:name=".controller.activities.BaseViewController"
             android:screenOrientation="portrait">
         </activity>

@@ -1,0 +1,2450 @@
+{
+  "movies":[
+    {
+      "rating":"B",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"24214-417613-20171019114411.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"24214-830525-20170731125438.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"star-wars-los-ultimos-jedi.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"24214-230930-20171019114411.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Star Wars: The Last Jedi (Estados Unidos, 2017)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Oscar Isaac",
+            "Adam Driver",
+            "Andy Serkis",
+            "Lupita Nyong'o",
+            "Mark Hamill",
+            "Carrie Fisher",
+            "John Boyega"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Rian Johnson"
+          ]
+        }
+      ],
+      "cinemas":[
+        32
+      ],
+      "position":1,
+      "categories":[
+        "now_playing"
+      ],
+      "genre":"Accion",
+      "synopsis":"En STAR WARS: LOS ÚLTIMOS JEDI, de Lucasfilm, la saga de los Skywalker continúa mientras los héroes de STAR WARS: EL DESPERTAR DE LA FUERZA se unen a las leyendas galácticas en una épica aventura en la que se develan misterios milenarios de la Fuerza e impactantes revelaciones del pasado. ",
+      "length":"152 min",
+      "release_date":"2017-12-14T00:00:00",
+      "id":24214,
+      "name":"Star Wars: Los Últimos Jedi",
+      "code":"star-wars-los-ultimos-jedi",
+      "original_name":"Star Wars: The Last Jedi (Estados Unidos, 2017)."
+    },
+    {
+      "rating":"A",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"25132-191507-20171208110517.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"25132-312529-20171106010342.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"corazon.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"25132-241347-20171208110529.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Wonder (Estados Unidos, 2017)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Owen Wilson",
+            "Julia Roberts",
+            "Jacob Tremblay",
+            "Mandy Patinkin"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Stephen Chbosky"
+          ]
+        }
+      ],
+      "cinemas":[
+        32
+      ],
+      "position":2,
+      "categories":[
+        "now_playing"
+      ],
+      "genre":"Drama",
+      "synopsis":"Basada en el Bestseller del New York Times, EXTRAORDINARIO cuenta la inspiradora y alentadora historia de Agust Pullman. Nacido con deformaciones faciales que hasta ahora le impedían ir a una escuela primaria, Auggie se convierte en un héroe poco común cuando entra al quinto grado. Tanto su familia como sus compañeros de clases y la comunidad en general luchan por encontrar la compasión y la aceptación, el extraordinario viaje de Auggie los unirá y les probará que no puedes mezclarte cuando naciste para sobresalir.",
+      "length":"114 min",
+      "release_date":"2017-12-14T00:01:00",
+      "id":25132,
+      "name":"Extraordinario",
+      "code":"extraordinario",
+      "original_name":"Wonder (Estados Unidos, 2017)."
+    },
+    {
+      "rating":"B",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"25162-657868-20171009063720.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"25162-331594-20171009063720.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"bolshoi.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"25162-649173-20171009063721.jpg"
+        },
+        {
+          "type":"image",
+          "code":"ribbon",
+          "resource":"sello_preventa.png"
+        }
+      ],
+      "cast":[
+
+      ],
+      "cinemas":[
+        32
+      ],
+      "position":22,
+      "categories":[
+        "presale",
+        "now_playing",
+        "coming_soon"
+      ],
+      "genre":"Arte",
+      "synopsis":"Cuando Giselle descubre que su amado Albrecht está comprometido con otra mujer, se le rompe el corazón y muere en sus brazos. Mientras Albrecht llora por su muerte, ella regresa de entre los muertos con Willi, un espíritu vengativo que hace que los hombres infieles bailen hasta la muerte. La bailarina principal Svetlana Zakharova encarna este importante papel para una bailarina de repertorio clásico, junto al sensacional Sergei Polunin en el papel de Arbrecht, en este ballet escalofriante y a la vez lleno de luz, sigue fascinando al público del Bolshoi. ",
+      "length":"140 min",
+      "release_date":"2018-03-24T00:00:00",
+      "id":25162,
+      "name":"Bolshoi: Giselle",
+      "code":"bolshoi-giselle",
+      "original_name":""
+    },
+    {
+      "rating":"B",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"25161-710383-20171009063940.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"25161-384109-20171009063940.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"bolshoi.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"25161-570792-20171009063941.jpg"
+        },
+        {
+          "type":"image",
+          "code":"ribbon",
+          "resource":"sello_preventa.png"
+        }
+      ],
+      "cast":[
+
+      ],
+      "cinemas":[
+        32
+      ],
+      "position":24,
+      "categories":[
+        "presale",
+        "now_playing",
+        "coming_soon"
+      ],
+      "genre":"Arte",
+      "synopsis":"Alexei Ratmansky, ex director artístico de Bolshoi Ballet, presenta el estreno de la producción de la compañía con urgencia dramática y una nueva versión del querido clásico de Shakespeare. Su brillante y detallada adaptación a la partitura romántica y cinematográfica de Prokofiev reaviva la historia de los amantes de la literatura más célebres como ningún otro coreógrafo de ballet contemporáneo. ",
+      "length":"150 min",
+      "release_date":"2018-02-24T00:00:00",
+      "id":25161,
+      "name":"Bolshoi: Romeo and Juliet",
+      "code":"bolshoi-romeo-and-juliet",
+      "original_name":""
+    },
+    {
+      "rating":"B",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"25160-527977-20171009063830.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"25160-201704-20171009063830.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"bolshoi.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"25160-101342-20171009063831.jpg"
+        },
+        {
+          "type":"image",
+          "code":"ribbon",
+          "resource":"sello_preventa.png"
+        }
+      ],
+      "cast":[
+
+      ],
+      "cinemas":[
+        32
+      ],
+      "position":28,
+      "categories":[
+        "presale",
+        "now_playing",
+        "coming_soon"
+      ],
+      "genre":"Arte",
+      "synopsis":"Una producción especial de La Dama de las Camelias, del Bolshoi Ballet, directamente desde Moscú, Rusia. La novela de Alexandre Dumas Fils cobra vida en la etapa del Bolshoi, con la prima Svetlana  Zakharova como la enferma Marguerite que busca el amor. El Bolshoi trae la obra del coreógrafo John Neumeier de belleza y profundidad trágica a nuevas alturas emocionales, acompañada por la partitura romántica del piano de Chopin. ",
+      "length":"185 min",
+      "release_date":"2018-01-20T00:00:00",
+      "id":25160,
+      "name":"Bolshoi: Lady of the Camellias",
+      "code":"bolshoi-lady-of-the-camellias",
+      "original_name":""
+    },
+    {
+      "rating":"B",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"25137-781013-20171107115850.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"25137-896503-20171009055716.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"jumanji-en-la-selva.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"25137-415510-20171107115851.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Jumanji: Welcome to the jungle (Estados Unidos, 20"
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Jack Black",
+            "Bobby Cannavale",
+            "Dwayne Johnson",
+            "Karen  Gillan",
+            "Kevin Hart",
+            "Nick Jonas"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Jake Kasdan"
+          ]
+        }
+      ],
+      "cinemas":[
+        32
+      ],
+      "position":29,
+      "categories":[
+        "now_playing"
+      ],
+      "genre":"Accion",
+      "synopsis":"En la nueva aventura Jumanji: en la Selva todo se transtorna cuando cuatro adolescentes son succionados por el mundo de Jumanji. Los chicos descubren una vieja consola de video con un juego del que nunca han oído hablar y súbitamente son lanzados a la selva en los cuerpos de sus avatares, interpretados Dwayne Johnson, Jack Black, Kevin Hart Y Karen Gillan. Ellos descubren que tú no juegas con Jumanji, más bien Jumanji juega contigo. Así que deben emprender la aventura más peligrosa de sus vidas o quedarán atrapados en el juego para siempre… ",
+      "length":"119 min",
+      "release_date":"2017-12-21T00:00:00",
+      "id":25137,
+      "name":"Jumanji: En La Selva",
+      "code":"jumanji-en-la-selva",
+      "original_name":"Jumanji: Welcome to the jungle (Estados Unidos, 20"
+    },
+    {
+      "rating":"B",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"25823-626005-20171113043849.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"25823-879873-20171113043850.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"cuando-los-hijos-regresan.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"25823-735062-20171113043850.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Cuando Los Hijos Regresan (México, 2017)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Fernando Luján",
+            "Cecilia Suárez",
+            "Carmen Maura",
+            "Irene Azuela",
+            "Esmeralda Pimentel",
+            "Erick Elías",
+            "Francisco de la Reguera"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Hugo Lara Chávez"
+          ]
+        }
+      ],
+      "cinemas":[
+        32
+      ],
+      "position":37,
+      "categories":[
+        "now_playing"
+      ],
+      "genre":"Comedia",
+      "synopsis":"Para Manuel y Adelina todo marcha de maravilla: están felices con su vida. Sin embargo su actual serenidad se verá interrumpida cuando cads uno de sus tres hijos decida mudarse de vuelta a casa.\nRebasados por la situación, Manuel y Adelina llevan a cabo un plan para sabotearlos y recuperar la paz de su hogar.\n\n",
+      "length":"100 min",
+      "release_date":"2017-12-21T00:02:00",
+      "id":25823,
+      "name":"Cuando Los Hijos Regresan",
+      "code":"cuando-los-hijos-regresan",
+      "original_name":"Cuando Los Hijos Regresan (México, 2017)."
+    },
+    {
+      "rating":"A",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"24289-402986-20170803112458.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"24289-199684-20170803112458.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"ole-el-viaje-de-ferdinand.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"24289-570470-20170803112459.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Ferdinand (Estados Unidos, 2017)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "John Cena",
+            "David Tennant",
+            "Gina  Rodríguez"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Carlos Saldanha"
+          ]
+        }
+      ],
+      "cinemas":[
+        32
+      ],
+      "position":38,
+      "categories":[
+        "now_playing"
+      ],
+      "genre":"Infantil",
+      "synopsis":"“Olé, el viaje de Ferdinand” cuenta la historia de un toro enorme con un gran corazón. Después de ser confundido por una bestia peligrosa, es capturado y removido de su hogar. Decidido en regresar con su familia, congrega a un equipo de inadaptados para emprender la aventura máxima. “Olé, elviaje de Ferdinand”, que se desarrolla en España, prueba que no puedes juzgar a un toro por sus cuernos.De Blue Sky Studios y Carlos Saldanha, director de “Rio”, e inspirada en el querido libro “The Story of Ferdinand”, de Munro Leaf y Robert Lawson, “Olé, El viaje de Ferdinand” es una comedia animada con un reparto multiestelar que incluye a John Cena, Kate McKinnon, Gina Rodriguez, Anthony Anderson y muchos más.",
+      "length":"108 min",
+      "release_date":"2017-12-21T00:01:00",
+      "id":24289,
+      "name":"Ole, El Viaje de Ferdinand",
+      "code":"ole-el-viaje-de-ferdinand",
+      "original_name":"Ferdinand (Estados Unidos, 2017)."
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"24910-176921-20171207102953.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"24910-577882-20171003025032.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"el-gran-showman.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"24910-118493-20171207102953.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "The Greatest Showman (Estados Unidos, 2017)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Zac Efron",
+            "Michelle Williams",
+            "Hugh Jackman",
+            "Zendaya ."
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Michael Gracey"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":39,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Drama",
+      "synopsis":"EL GRAN SHOWMAN es un original musical que celebra el origen del mundo del espectáculo y la capacidad de asombro que sentimos cuando los sueños cobran vida. Inspirada en la ambición e imaginación de P.T. Barnum, “El Gran Showman” cuenta la historia de un visionario que surgió de la nada para crear un espectáculo fascinante, que se convirtió en un éxito mundial. “El GranShowman” es dirigida por Michael Gracey, con canciones de los ganadores del Oscar ®  Benj Pasek y Justin Paul (“La La Land”) y protagonizada por el nominado al Oscar ® Hugh Jackman. A Jackman se le unen la nominada al Oscar ® Michelle Williams, Zendaya, Zac Efron y Rebecca Ferguson.",
+      "length":"100 min",
+      "release_date":"2017-12-28T00:00:00",
+      "id":24910,
+      "name":"El Gran Showman",
+      "code":"el-gran-showman",
+      "original_name":"The Greatest Showman (Estados Unidos, 2017)."
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"1883-554242-20171121062310.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"1883-392811-20171121062310.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"el-implacable.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"1883-222748-20171121062311.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "The Foreigner (Reino Unido, 2017)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Jackie Chan",
+            "Pierce Brosnan",
+            "Mark Tandy",
+            "Rufus Jones"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Martin Campbell"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":40,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Accion",
+      "synopsis":"Quan (Jackie Chan), un empresario con un pasado enterrado, busca justicia cuando su hija es asesinada en un acto de terrorismo con motivos políticos. Al ser ignorado por la IRA (Ejército Republicano Irlandés) decide hacer justicia por sí mismo. En su búsqueda para llegar a los terroristas, se ve atrapado en un conflicto con un funcionario del gobierno británico (Pierce Brosnan), cuyo pasado puede tener pistas sobre la identidad de los asesinos.",
+      "length":"100 min",
+      "release_date":"2017-12-28T00:01:00",
+      "id":1883,
+      "name":"El Implacable",
+      "code":"el-implacable",
+      "original_name":"The Foreigner (Reino Unido, 2017)."
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"25941-487008-20171121062424.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"25941-743518-20171121062424.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"perfectos-desconocidos-nuevo.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"25941-442558-20171121062425.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Perfectos Desconocidos (España, 2017)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Eduardo Noriega",
+            "Juana Acosta",
+            "Belén Rueda",
+            "Eduardo Fernández",
+            "Ernesto Alterio"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Álex de la Iglesia"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":41,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Comedia",
+      "synopsis":"En una cena entre cuatro parejas de entre 45 y 50 años, que se conocen de toda la vida, se proponen un juego que pondrá sobre la mesa sus peores secretos: leer en voz alta los mensajes y las llamadas de sus móviles, su vida entera compartida por todos en ese momento... Remake del exitoso film italiano \"Perfetti sconosciuti\", de Paolo Genovese.",
+      "length":"100 min",
+      "release_date":"2017-12-28T00:02:00",
+      "id":25941,
+      "name":"Perfectos Desconocidos",
+      "code":"perfectos-desconocidos",
+      "original_name":"Perfectos Desconocidos (España, 2017)."
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"25936-436767-20171121062338.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"25936-779660-20171121062338.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"historia-de-fantasmas.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"25936-503952-20171121062339.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "A Ghost Story (Estados Unidos, 2017)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Rooney Mara",
+            "Casey Affleck",
+            "McColm Cephas Jr."
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "David Lowery"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":42,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Drama",
+      "synopsis":"Fallecido recientemente, un fantasma (el ganador del Oscar, Casey Affleck) cubierto con una sábana blanca, regresa a su hogar en los suburbios para consolar a su afligida esposa (Nominada al Oscar, Rooney Mara), solo para darse cuenta que su estado espectral se encuentra atrapado en el tiempo, forzado a observar como la vida que conoció y la mujer que amó se esfuman lentamente. ",
+      "length":"100 min",
+      "release_date":"2017-12-28T00:03:00",
+      "id":25936,
+      "name":"Historia de Fantasmas",
+      "code":"historia-de-fantasmas",
+      "original_name":"A Ghost Story (Estados Unidos, 2017)."
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"26114-654513-20171130105504.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"26114-841258-20171130105505.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"good-time.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"26114-565550-20171130105506.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Good Time (Estados Unidos, 2017)"
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Robert Pattinson",
+            "Barkhad Abdi",
+            "Benny Safdie",
+            "Buddy Duress"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Josh Safdie",
+            "Benny Safdie"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":43,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Thriller",
+      "synopsis":"Connie (Robert Pattinson) y su hermano con discapacidad mental Nick (Benny Safdie) intentan robar un banco en Nueva York; sin embargo Nick es atrapado por la policía. Connie decide ocupar el dinero robado para liberar a su desvalido hermano, pero todo se complicará cuando las decisiones que Connie va tomando se vuelven cada vez más desafortunadas. ",
+      "length":"100 min",
+      "release_date":"2017-12-28T00:04:00",
+      "id":26114,
+      "name":"Good Time: Viviendo al Límite",
+      "code":"good-time-viviendo-al-limite",
+      "original_name":"Good Time (Estados Unidos, 2017)"
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"26115-130777-20171130105436.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"26115-655069-20171130105437.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"tadeo-el-explorador-perdido-2.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"26115-883685-20171130105438.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Tadeo Jones 2El Secreto del Rey Midas(España,2017)"
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Alondra Hidalgo",
+            "Adrián Uribe",
+            "Pepe Toño Macías",
+            "Lourdes Arruti",
+            "Dan Osorio"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":44,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Infantil",
+      "synopsis":"Tras el descubrimiento por parte de Sara Lavroff de uno de los tres discos de oro del collar del Rey Midas, confirmando con éste, la existencia de este monarca que convertía en oro todo lo que tocaba, Tadeo Jones viaja hasta Las Vegas para acompañar a su amiga en la gran exposición en la que mostrará por primera vez este importante hallazgo al mundo de la arqueología. El feliz encuentro entre Tadeo y Sara se ve interrumpido cuando el malvado Jack Rackham y sus secuaces roban la pieza y secuestran a la joven arqueóloga, sabiendo que quien consiga reunir nuevamente los tres discos del collar, adquirirá el poder de Midas y, por tanto, riqueza infinita.\n\nTadeo, junto a sus amigos la Momia, el loro Belzoni, su perro Jeff y los nuevos personajes que se suman a esta aventura, tendrá que hacer uso de todo su ingenio y viajar por todo el mundo, recorriendo España, Grecia y Turquía, con el fin de rescatar a Sara y arruinar los planes del malvado Rackham.\n",
+      "length":"85 min",
+      "release_date":"2018-01-04T00:00:00",
+      "id":26115,
+      "name":"Tadeo 2",
+      "code":"tadeo-2",
+      "original_name":"Tadeo Jones 2El Secreto del Rey Midas(España,2017)"
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"26166-204655-20171211050018.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"26166-500394-20171211050019.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"mas-fuerte-que-el-destino.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"26166-642627-20171211050019.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Stronger (Estados Unidos, 2017)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "David Hoberman",
+            "Todd Lieberman",
+            "Jake Gyllenhaal",
+            "Michel Litvak"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "David Gordon Green"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":45,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Drama",
+      "synopsis":"Más Fuerte que el Destino está inspirada en la verdadera historia de Jeff Bauman, un hombre ordinario quien capturó los corazones de su ciudad y el mundo, para convertirse en un símbolo de esperanza, después de la infame explosión de bomba del Maratón de Boston del 2013. Es el recuento profundo y personal de Jeff sobre su heroica travesía que pone a prueba los lazos familiares, define el orgullo de una comunidad e inspira su valor interior para vencer la adversidad devastadora.",
+      "length":"119 min",
+      "release_date":"2018-01-04T00:00:00",
+      "id":26166,
+      "name":"Más Fuerte Que El Destino",
+      "code":"mas-fuerte-que-el-destino",
+      "original_name":"Stronger (Estados Unidos, 2017)."
+    },
+    {
+      "rating":"B",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"25934-338463-20171130105600.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"25934-751120-20171130105600.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"frantz-nuevo.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"25934-606308-20171130105601.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Frantz (Francia, 2017)"
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Pierre Niney",
+            "Ernst Sto¨tzner",
+            "Paula Beer"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "François Ozon"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":46,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Arte",
+      "synopsis":"En una pequeña ciudad alemana, después de la Primera Guerra Mundial, Anna visita todos los días la tumba de su prometido, Frantz, quien murió en el frente de Francia. Su vida cambiará con la llegada de Adrien, un enigmático soldado francés quien dice ser amigo de Frantz pero ¿de qué se conocían realmente?. La presencia de éste soldado, después de la derrota alemana, provocará reacciones apasionadas. ",
+      "length":"113 min",
+      "release_date":"2018-01-04T00:01:00",
+      "id":25934,
+      "name":"Frantz",
+      "code":"frantz",
+      "original_name":"Frantz (Francia, 2017)"
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"25924-709944-20171116014032.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"25924-383670-20171116014032.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"una-mujer-sin-filtro.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"25924-684629-20171116014033.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Una Mujer Sin Filtro (México, 2017)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Alejandro Calva",
+            "Carmen Aub",
+            "Flavio  Medina",
+            "Mara Escalante",
+            "Fernanda Castillo",
+            "Sofía Niño de Rivera"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Luis Eduardo Reyes"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":47,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Comedia",
+      "synopsis":"El 99% de las personas nunca dice exactamente lo que piensa. Paz es una linda mujer que por amabilidad, ha permitido que todos a su alrededor la traten como si no valiera nada, callando lo que piensa para no herir susceptibilidades. Hasta que un día, en su cabeza, un fenómeno irremediable suprime su filtro social convirtiéndola en parte de ese 1% y obligándola a expresar lo que realmente siente. ",
+      "length":"90 min",
+      "release_date":"2018-01-12T00:00:00",
+      "id":25924,
+      "name":"Una Mujer Sin Filtro",
+      "code":"una-mujer-sin-filtro",
+      "original_name":"Una Mujer Sin Filtro (México, 2017)."
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"25925-156125-20171116023846.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"25925-891052-20171116014220.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"la-forma-del-agua.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"generic.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "The Shape of Water (Estados Unidos, 2018)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Richard Jenkins",
+            "Sally Hawkins",
+            "Octavia Spencer",
+            "Michael Shannon",
+            "Doug Jones"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Guillermo Del Toro"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":48,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Drama",
+      "synopsis":"Del experto escritor Guillermo del Toro, viene LA FORMA DEL AGUA – un cuento de hadas místico, que tiene como fondo la época de la Guerra Fría en los Estados Unidos, hacia 1963. En el laboratorio oculto de alta seguridad del gobierno donde trabaja, la solitaria Elisa (Sally Hawkins) está atrapada en una vida de silencio y aislamiento. La vida de Elisa cambia para siempre cuando ella y su compañera de trabajo Zelda (Octavia Spencer) descubren un experimento clasificado secreto. El reparto lo redondea Michael Shannon, Richard Jenkins, Michael Stuhlbarg y Doug Jones.",
+      "length":"100 min",
+      "release_date":"2018-01-12T00:01:00",
+      "id":25925,
+      "name":"La Forma Del Agua",
+      "code":"la-forma-del-agua",
+      "original_name":"The Shape of Water (Estados Unidos, 2018)."
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"26160-398385-20171208022620.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"26160-668872-20171208022621.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"siempre-estaras-conmigo.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"26160-122739-20171208022622.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Red Dog: True Blue (Australia)"
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Jason Isaacs",
+            "Levi Miller",
+            "Bryan Brown"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Kriv  Stenders"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":49,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Drama",
+      "synopsis":"Tras la muerte de su padre. Mick un niño de 11 años, es enviado a vivir al rancho de su abuelo donde le espera una vida aburrida y de mucho trabajo. Despúes de una tormenta Mick encuentra un increible cachorro bañado en pintura al que decide llamar BLUE. Juntos vivirán grandes e inolvidables aventuras en las que demostrarán la importancia de su familia, la lealtad, el amor y la verdadera amistad",
+      "length":"84 min",
+      "release_date":"2018-01-12T00:02:00",
+      "id":26160,
+      "name":"Siempre Estarás Conmigo",
+      "code":"siempre-estaras-conmigo",
+      "original_name":"Red Dog: True Blue (Australia)"
+    },
+    {
+      "rating":"A",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"25919-220373-20171116023525.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"25919-451568-20171116023526.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"abril-y-el-mundo-extraordinario.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"25919-304841-20171116023536.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Avril et le monde truqué (Francia, 2015)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Philippe Katerine",
+            "Marion Cotillard",
+            "Jean Rochefort"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Franck  Ekinci",
+            "Christian Desmares"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":50,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Accion y Aventura",
+      "synopsis":"1941. El mundo es radicalmente diferente al descrito por la historia. Francia es gobernada por el carbón, el vapor y Napoleón V y los científicos de todo el mundo han desaparecido misteriosamente, privando a la humanidad de grandes invenciones y sumergiendola en una tecnología obsoleta. Es en este extraño mundo donde una niña, Abril, va en busca de sus padres, que son científicos, acompañada de Darwin, su gato que habla y Julius, un joven sinvergüenza de la calle. Este trío se enfrentará a los peligros y misterios de este mundo extraordinario.",
+      "length":"106 min",
+      "release_date":"2018-01-12T00:03:00",
+      "id":25919,
+      "name":"Abril y El Mundo Extraordinario",
+      "code":"abril-y-el-mundo-extraordinario",
+      "original_name":"Avril et le monde truqué (Francia, 2015)."
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"26168-111749-20171212043609.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"26168-541025-20171212043610.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"en-la-penumbra.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"26168-195554-20171212043610.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Aus dem nichts (Alemania, 2017)"
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Diane Kruger",
+            "Johannes Krisch",
+            "Denis Moschitto"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Faith Akin"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":51,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Drama",
+      "synopsis":"La vida de Katja se hunde cuando su marido y su hijo mueren en un atentado con bomba. Tras el duelo y la injusticia, llegará el tiempo de buscar venganza.",
+      "length":"100 min",
+      "release_date":"2018-01-12T00:03:00",
+      "id":26168,
+      "name":"En La Penumbra",
+      "code":"en-la-penumbra",
+      "original_name":"Aus dem nichts (Alemania, 2017)"
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"25733-260561-20171106033800.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"25733-899130-20171106033801.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"terror-en-la-oscuridad.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"25733-397510-20171106033802.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Inside (España,2017)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Rachel Nichols",
+            "Laura Harring"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Miguel Ángel Rivas"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":52,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Terror",
+      "synopsis":"La joven y futura madre Sarah está tratando de reconstruir su vida: recién enviudó en un terrible accidente de auto que la dejó parcialmente sorda, miserable con el tan esperado nacimiento de su hijo y sola, mudándose a un vecindario desconocido. Sólo puede mantenerse a flote. Al anochecer Sarah recibe una visita inesperada y no bienvenida. Una obsesionada mujer será su adversaria y que no se detendrá hasta arrebatarle a su hijo no nacido. Atrapada y desorientada, Sara tendrá que usar todas sus reservas de fuerza para proteger y sobrevivir la noche.  \n ",
+      "length":"100 min",
+      "release_date":"2018-01-12T00:04:00",
+      "id":25733,
+      "name":"Terror en la Obscuridad",
+      "code":"terror-en-la-obscuridad",
+      "original_name":"Inside (España,2017)."
+    },
+    {
+      "rating":"B",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"26159-140814-20171208122838.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"26159-322276-20171208122839.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":""
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"26159-489760-20171208122840.jpg"
+        }
+      ],
+      "cast":[
+
+      ],
+      "cinemas":[
+
+      ],
+      "position":53,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Documental",
+      "synopsis":" ",
+      "length":"110 min",
+      "release_date":"2018-01-16T00:00:00",
+      "id":26159,
+      "name":"Dust 2 Glory",
+      "code":"dust-2-glory",
+      "original_name":" "
+    },
+    {
+      "rating":"B",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"26116-249605-20171201125820.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"26116-759982-20171201125822.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":""
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"26116-771319-20171201125823.jpg"
+        }
+      ],
+      "cast":[
+
+      ],
+      "cinemas":[
+
+      ],
+      "position":54,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Accion",
+      "synopsis":"    ",
+      "length":"120 min",
+      "release_date":"2018-01-19T00:00:00",
+      "id":26116,
+      "name":"Fate: Stay Night Heaven´s Feel",
+      "code":"fate-stay-night-heaven´s-feel",
+      "original_name":"    "
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"25928-775710-20171116065137.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"25928-703242-20171116065137.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"la-leyenda-del-charro-negro.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"25928-691906-20171116065138.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "La Leyenda Del Charro Negro (México, 2018)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Mayté Cordero",
+            "Benny Mendoza"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Alberto Rodriguez"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":55,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Infantil",
+      "synopsis":"Nueva entrega de la saga de animación sobre leyendas mexicanas producida por Ánima Estudios. Tras los hechos de 'La leyenda del chupacabras', Leo San Juan decide regresar a casa de su abuela a reunirse con su hermano. Sin embargo, en su camino se cruzará con el charro negro, quien logrará engañar a Leo y hará que una chica inocente acabe de forma accidental en el inframundo. Leo no tendrá más remedio que embarcarse en una nueva aventura para rescatar a la chica, en donde contará con la ayuda de sus amigos para tal tarea. Pero los planes del Charro Negro no terminan ahí, yendo sus intenciones más allá de querer conseguir un alma nueva, por lo que Leo y sus amigos tendrán que enfrentarse a gran cantidad de nuevos peligros y aventuras.",
+      "length":"100 min",
+      "release_date":"2018-01-19T00:01:00",
+      "id":25928,
+      "name":"La Leyenda Del Charro Negro",
+      "code":"la-leyenda-del-charro-negro",
+      "original_name":"La Leyenda Del Charro Negro (México, 2018)."
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"26164-598658-20171208022703.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"26164-253186-20171208022704.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"el-pasajero.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"26164-724334-20171208022705.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "The Commuter (Estados Unidos, 2018)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Liam Neeson",
+            "Patrick Wilson",
+            "Jaume Collet-Serra",
+            "Vera Farminga"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":56,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Thriller",
+      "synopsis":"Durante su trayecto habitual de vuelta a casa en tren, un hombre de negocios, de pronto entabla conversación con una misteriosa pasajera. Pronto el hombre se verá envuelto en una conspiración criminal que amenaza con poner en peligro tanto su vida como la de sus seres más cercanos.",
+      "length":"104 min",
+      "release_date":"2018-01-19T00:01:00",
+      "id":26164,
+      "name":"El Pasajero",
+      "code":"el-pasajero",
+      "original_name":"The Commuter (Estados Unidos, 2018)."
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"26162-392118-20171215012455.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"26162-436733-20171208022733.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"pequena-gran-vida.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"26162-732369-20171215012456.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Downsizing (Estados Unidos, 2018)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Matt Damon",
+            "Christoph Waltz",
+            "Kristen Wiig"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Alexander Payne"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":57,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Comedia",
+      "synopsis":"Pequeña Gran Vida Sigue las aventuras de Paul Safranek (Matt Damon), un hombre de Omaha que, junto con su esposa Audrey (Kristen Wiig), sueña con una vida mejor. A medida que el mundo se enfrenta a una crisis de superpoblación, los científicos desarrollan una solución radical que puede reducir los seres humanos a cinco pulgadas de alto. La gente pronto descubre cuánto más vale el dinero en un mundo más pequeño y con la promesa de un estilo de vida lujoso más allá de sus fantasías más salvajes, Paul y Audrey deciden arriesgarse a llevar a cabo el polémico procedimiento y emprender una aventura que cambiará sus vidas para siempre.",
+      "length":"100 min",
+      "release_date":"2018-01-19T00:02:00",
+      "id":26162,
+      "name":"Pequeña Gran Vida",
+      "code":"pequena-gran-vida",
+      "original_name":"Downsizing (Estados Unidos, 2018)."
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"26161-290483-20171211050045.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"26161-572243-20171211050046.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"la-fiesta-de-la-vida.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"26161-357668-20171211050047.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Le Sens de la Fête (Francia,2017)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Jean-Pierre Bacri",
+            "Gilles Lellouche",
+            "Jean-Pierre Rouve"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Oliver Nakache",
+            "Eric Toledano"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":58,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Comedia",
+      "synopsis":"Max ha operado una compañía de servicio banquetes por 30 años. Ha planeado cientos de fiestas y está empezando a cansarse. Hoy es el gran día de Pierre y Helena, quienes se casarán en un sublime château del siglo 17. Max como de rutina ha realizado toda la organización del feliz evento: meseros, cocineros, arreglos de flores y demás, para hacer de la fiesta un éxito. A pesar de los inconvenientes que van surgiendo durante la boda, cada instante de felicidad y emoción puede convertirse en desastre y caos. Max y su personal tendrán que contar con su talento para hacer una gran fiesta",
+      "length":"100 min",
+      "release_date":"2018-01-19T00:03:00",
+      "id":26161,
+      "name":"La Fiesta De La Vida",
+      "code":"la-fiesta-de-la-vida",
+      "original_name":"Le Sens de la Fête (Francia,2017)."
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"25935-285283-20171121062404.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"25935-410896-20171121062404.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"apuesta-maestra.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"25935-779041-20171121062405.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Molly's Game"
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Michael Cera",
+            "Idris Elba",
+            "Jessica Chastain",
+            "Chris O'Dowd",
+            "Kevin Costner"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Aaron Sorkin"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":59,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Drama",
+      "synopsis":"Basada en la historia de Molly Bloom, una esquiadora olímpica, que después de un trágico accidente que la obliga abandonar su carrera, se dedicó a manejar la casa de apuestas más exclusiva de Estados Unidos, donde asistían actores, cantantes y empresarios más poderosos. Fue así que se convirtió en un blanco para el FBI.\n\n",
+      "length":"140 min",
+      "release_date":"2018-01-26T00:00:00",
+      "id":25935,
+      "name":"Apuesta Maestra",
+      "code":"apuesta-maestra",
+      "original_name":"Molly's Game"
+    },
+    {
+      "rating":"B",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"26163-581158-20171208022816.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"26163-879538-20171208022816.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"corazon-del-hombre.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"26163-620450-20171208022817.jpg"
+        }
+      ],
+      "cast":[
+
+      ],
+      "cinemas":[
+
+      ],
+      "position":60,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Documental",
+      "synopsis":"Recuento cinematográfico de la parábola del \"Hijo Pródigo\" entrelazada con impactantes testimonios de la vida real sobre las luchas internas con el deseo sexual y el quebrantamiento personal. Estos dos géneros han sido combinados como nunca antes para revelar el compasivo corazón de Dios el Padre para con sus hijos, iluminando una antigua verdad: La vergüenza y el sufrimiento no son una barrera hacia el amor de Dios, sino un puente hacia la transformación absoluta, la victoria, la libertad y la esperanza. ",
+      "length":"74 min",
+      "release_date":"2018-01-26T00:00:00",
+      "id":26163,
+      "name":"El Corazón del Hombre",
+      "code":"el-corazon-del-hombre",
+      "original_name":" "
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"26188-159623-20171218045358.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"26188-873302-20171218045400.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"tres-anuncios-por-un-crimen.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"26188-240786-20171218045400.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Three Billboards Outside Ebbing, Missouri"
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Woody Harrelson",
+            "Sam Rockwell",
+            "Abbie Cornish",
+            "Frances McDormand"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Martin MacDonagh"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":61,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Drama",
+      "synopsis":"TRES ANUNCIOS POR UN CRIMEN,  es un drama de humor negro de Martin McDonagh (In Bruges), ganador del Premio de la Academia. Después de que han pasado meses sin encontrar un culpable en el caso del asesinato de su hija, Mildred Hayes (la ganadora del Premio de la Academia Frances McDormand) comete un acto intrépido, una vez que pinta tres señalizaciones que conducen hasta su pueblo, con un mensaje controversial dirigido a William Willoughby (el nominado al Premio de la Academia Woody Harrelson), el venerado jefe de policía del lugar. Cuando su segundo de abordo, el oficial Dixon (Sam Rockwell), un inmaduro chico malcriado con una inclinación a la violencia, se involucra, la batalla entre Mildred y el cuerpo policial de Ebbing sólo se agrava.",
+      "length":"100 min",
+      "release_date":"2018-01-26T00:00:00",
+      "id":26188,
+      "name":"Tres Anuncios Por Un Crimen",
+      "code":"tres-anuncios-por-un-crimen",
+      "original_name":"Three Billboards Outside Ebbing, Missouri"
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"26189-741849-20171218045427.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"26189-284742-20171218045428.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"el-reencuentro.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"26189-382462-20171218045429.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Last Flag Flying (Estados Unidos, 2017)"
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Steve Carell",
+            "Laurence Fishburne",
+            "Bryan Cranston",
+            "Cicely Tyson"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Richard  Linklater"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":62,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Drama",
+      "synopsis":"En 2003, 30 años después de haber estado en servicio durante la guerra de Vietnam, el antiguo médico de la armada Larry “Doc.” Shepherd (Steve Carell) se reúne con sus antiguos compañeros miembros de la armada, Sal Nealon (Bryan Cranston) y el reverendo Richard Mueller (Laurence Fishburne) para llevar a cabo una misión completamente diferente: enterrar al hijo de Doc, un joven soldado que murió en la guerra de Irak. Doc. se rehúsa enterrar a su hijo en el cementerio Arlington y con la ayuda de sus viejos amigos lleva el ataúd hacia la Costa Este a su hogar en los suburbios de New Hampshire en un viaje lleno de emociones. A lo largo del camino Doc., Sal y Mueller recuerdan sus vivencias de la guerra que siguen marcando su vida y se reconcilian",
+      "length":"124 min",
+      "release_date":"2018-01-26T00:00:00",
+      "id":26189,
+      "name":"El Reencuentro",
+      "code":"el-reencuentro",
+      "original_name":"Last Flag Flying (Estados Unidos, 2017)"
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"25927-640721-20171116065113.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"25927-584872-20171116065114.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"la-boveda.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"25927-286492-20171116065114.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "The Vault (Estados, 2017)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "James Franco",
+            "Francesca  Eastwood",
+            "Taryn Manning"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Dan Bushl"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":63,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Terror",
+      "synopsis":"Dos hermanas Leah (Francesca Eastwood) y Vee (Taryn Manning) deben robar un banco para salvar la vida de su hermano. El robo comienza bien, pero el caos se produce cuando el Gerente del Banco Ed Mass (James Franco) las envía a la bóveda del sótano para obtener lo que ellas quieren y sin saber que algo verdaderamente malvado habita ahí.",
+      "length":"91 min",
+      "release_date":"2018-01-26T00:01:00",
+      "id":25927,
+      "name":"La Bóveda",
+      "code":"la-boveda",
+      "original_name":"The Vault (Estados, 2017)."
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"26165-111043-20171211050110.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"26165-635335-20171211050111.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"lo-mas-sencillo-es-complicarlo-todo.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"26165-289864-20171211050112.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Lo más sencillo es complicarlo todo (México, 2018)"
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Danna Paola",
+            "Marjorie de Sousa",
+            "Alosian Vivancos"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Rene Bueno"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":64,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Comedia",
+      "synopsis":"Desde que tiene uso de razón, Renata ha estado enamorada del mejor amigo de su medio hermano, Juan Pablo (que es 13 años mayor que ella). Ahora que tiene “la edad perfecta” para tener una relación con él (que no tiene idea de esto). Juan Pablo conoce a Susana y decide que es la mujer de su vida. Para la mala suerte de Renata, Susana es la mujer muy bella, por lo que tendrá que elaborar un plan para separarlos que llevará a un final sorprendente para ella.",
+      "length":"94 min",
+      "release_date":"2018-01-26T00:02:00",
+      "id":26165,
+      "name":"Lo Más Sencillo Es Complicarlo Todo",
+      "code":"lo-mas-sencillo-es-complicarlo-todo",
+      "original_name":"Lo más sencillo es complicarlo todo (México, 2018)"
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"26187-529296-20171218045454.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"26187-228337-20171218045455.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":""
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"26187-169909-20171218045456.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Maze Runner: The Death Cure (Estados Unidos, 2018)"
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Kaya Scodelario",
+            "Dylan O'Brien",
+            "Thomas Brodie-Sangster"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Wes Ball"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":65,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Accion",
+      "synopsis":"En el final épico de la saga de Maze Runner, Thomas es lider de su grupo de Habitantes prófugos en la misión final y más peligrosa que hasta ese momento hayan tenido que enfrentar. Para salvar a sus amigos, deberá introducirse a la legendaria Última Ciudad, un laberinto controlado por WCKD, que podría resultar ser el laberinto más mortífero de todos. Cualquiera que salga con vida obtendrá respuestas a las preguntas que los Habitantes se han venido planteando desde que llegaron por primera vez al laberinto",
+      "length":"100 min",
+      "release_date":"2018-02-02T00:00:00",
+      "id":26187,
+      "name":"Maze Runner: Cura Mortal",
+      "code":"maze-runner-cura-mortal",
+      "original_name":"Maze Runner: The Death Cure (Estados Unidos, 2018)"
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"25929-665464-20171116065201.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"25929-584364-20171116065202.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"la-boda-de-valentina.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"25929-598279-20171116065203.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "La Boda de Valentina (México, 2018)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Marimar Vega",
+            "Omar Chaparro",
+            "Jesús Zavala",
+            "Ryan Carnes"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Marco Polo Constandse"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":66,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Comedia",
+      "synopsis":"Valentina aparentemente tiene la vida perfecta en Estados Unidos. Su universo tiembla cuando\tJason, su novio, le propone matrimonio y debe enfrentar a su familia “los perfectos Tate” con la suya “los Hidalgo”,la dinastía política más caótica y surrealista de la historia de México. Ambos, tendrán que sobrevivir al choque cultural  y a  su  carismático exnovio Ángel (Omar Chaparro) descubriendo  en el camino que  al  final,las cosas que de verdad importan no tienen  apellido, ni fronteras.\t   ",
+      "length":"99 min",
+      "release_date":"2018-02-09T00:00:00",
+      "id":25929,
+      "name":"La Boda de Valentina",
+      "code":"la-boda-de-valentina",
+      "original_name":"La Boda de Valentina (México, 2018)."
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"25930-433761-20171116065248.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"25930-734720-20171116065249.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"pantera-negra.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"25930-793148-20171116065250.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Black Panther (Estados Unidos, 2017)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Michael B. Jordan",
+            "Lupita Nyong'o",
+            "Chadwick Boseman",
+            "Danai Gurira"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Ryan Coogler"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":67,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Accion y Aventura",
+      "synopsis":"PANTERA NEGRA, de Marvel Studios, sigue a T'Challa, quien regresa a Wakanda, su solitaria nación africana de tecnología avanzada, para asumir como rey. Pero cuando un antiguo y poderoso enemigo reaparece, la fortaleza de T'Challa como rey y superhéroe es puesta a prueba cuando se ve involucrado en un gran conflicto que pone en riesgo el destino de Wakanda y del mundo entero. \n\n\n",
+      "length":"100 min",
+      "release_date":"2018-02-16T00:00:00",
+      "id":25930,
+      "name":"Pantera Negra",
+      "code":"pantera-negra",
+      "original_name":"Black Panther (Estados Unidos, 2017)."
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"24836-308033-20171030120833.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"24836-207734-20171030120834.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":"complices-nuevo.mp4"
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"24836-419731-20171030120835.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Complices (México, 2017)"
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Arath de la Torre",
+            "Sharlene Taulé",
+            "Jesús Zavala"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Luis Eduardo Reyes"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":68,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Comedia",
+      "synopsis":"Juan Campos ha dedicado su vida a seducir a las más bellas mujeres junto a su amigo y cómplice Luis Pani. Cuando se preparan para su viaje a República Dominicana, Luis enferma, y Juan se ve obligado a llevar a su sobrino Mau, un muchacho de 20 años que está pasando por la depresión de perder a su primer amor. Mientras Juan entrena a Mau en el arte de la conquista, aparece Teresa D’Ors, la única mujer en el mundo capaz de paralizar a Juan. Juntos se aventuran en un viaje donde aprenderán uno del otro y descubrirán que en el amor nada está dicho.",
+      "length":"100 min",
+      "release_date":"2018-02-23T00:00:00",
+      "id":24836,
+      "name":"Complices",
+      "code":"complices",
+      "original_name":"Complices (México, 2017)"
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"25931-242414-20171116065314.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"25931-629757-20171116065314.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":""
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"25931-487525-20171116065315.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "Alpha (Estados Unidos, 2018)"
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Kodi Smit-McPhee",
+            "Jóhannes  Haukur Jóhannesson"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Albert Hughes"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":69,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Accion y Aventura",
+      "synopsis":"Una aventura épica ubicada en la última Era del Hielo. Europa, 20,000 años atrás. Mientras participa en su primera cacería con el grupo de élite de su tribu, un joven resulta herido y queda abandonado para morir. Cuando recobra la conciencia se encuentra quebrantado y solo, así que debe aprender a sobrevivir y dominar la ruda e implacable naturaleza. Con renuencia doma a un lobo solitario separado de su manada y ambos aprenden a confiar uno en el otro convirtiéndose en inverosímiles aliados que superan incontables peligros y abrumadoras dificultades para encontrar su camino a casa antes de que llegue el letal invierno.",
+      "length":"100 min",
+      "release_date":"2018-03-09T00:00:00",
+      "id":25931,
+      "name":"Alfa",
+      "code":"alfa",
+      "original_name":"Alpha (Estados Unidos, 2018)"
+    },
+    {
+      "rating":"S/C",
+      "media":[
+        {
+          "type":"image",
+          "code":"poster",
+          "resource":"25932-265643-20171116065340.jpg"
+        },
+        {
+          "type":"image",
+          "code":"background_synopsis",
+          "resource":"25932-652986-20171116065340.jpg"
+        },
+        {
+          "type":"video",
+          "code":"trailer_mp4",
+          "resource":""
+        },
+        {
+          "type":"image",
+          "code":"poster_horizontal",
+          "resource":"25932-128694-20171116065341.jpg"
+        }
+      ],
+      "cast":[
+        {
+          "label":"Título Original",
+          "value":[
+            "A Wrinkle in Time (Estados Unidos, 2017)."
+          ]
+        },
+        {
+          "label":"Actores",
+          "value":[
+            "Oprah Winfrey",
+            "Reese Witherspoon",
+            "Mindy Kaling",
+            "Gugu Mbatha-Raw"
+          ]
+        },
+        {
+          "label":"Directores",
+          "value":[
+            "Ava DuVernay"
+          ]
+        }
+      ],
+      "cinemas":[
+
+      ],
+      "position":70,
+      "categories":[
+        "coming_soon"
+      ],
+      "genre":"Accion y Aventura",
+      "synopsis":"De la mano de la visionaria directora Ava DuVernay llega UN VIAJE EN EL TIEMPO de Disney, una épica aventura basada en la clásica historia de Madeleine L'Engle, que transporta a la audiencia a través de diferentes dimensiones en tiempo y espacio. Con la ayuda de tres guías celestiales, una niña realiza un viaje transformador en el que descubriremos que la fortaleza interna se logra al aceptar nuestras individualidades, y que la mejor manera de triunfar sobre el miedo es viajar usando nuestra propia luz.",
+      "length":"100 min",
+      "release_date":"2018-03-09T00:00:00",
+      "id":25932,
+      "name":"Un Viaje En El Tiempo",
+      "code":"un-viaje-en-el-tiempo",
+      "original_name":"A Wrinkle in Time (Estados Unidos, 2017)."
+    }
+  ],
+  "routes":[
+    {
+      "code":"poster",
+      "sizes":{
+        "large":"https://dsoh5jykc8zh3.cloudfront.net/resources/mx/movies/posters/264x386/",
+        "medium":"https://dsoh5jykc8zh3.cloudfront.net/resources/mx/movies/posters/142x207/",
+        "small":"https://dsoh5jykc8zh3.cloudfront.net/resources/mx/movies/posters/94x137/"
+      }
+    },
+    {
+      "code":"background_synopsis",
+      "sizes":{
+        "large":"https://dsoh5jykc8zh3.cloudfront.net/resources/mx/movies/backgrounds-synopsis/1080x675/",
+        "medium":"https://dsoh5jykc8zh3.cloudfront.net/resources/mx/movies/backgrounds-synopsis/720x450/",
+        "small":"https://dsoh5jykc8zh3.cloudfront.net/resources/mx/movies/backgrounds-synopsis/480x300/"
+      }
+    },
+    {
+      "code":"trailer_mp4",
+      "sizes":{
+        "medium":"http://movil.cinepolis.com/android/trailer/"
+      }
+    },
+    {
+      "code":"poster_horizontal",
+      "sizes":{
+        "large":"https://dsoh5jykc8zh3.cloudfront.net/resources/mx/movies/posters/horizontal/612x306/",
+        "medium":"https://dsoh5jykc8zh3.cloudfront.net/resources/mx/movies/posters/horizontal/408x203/",
+        "small":"https://dsoh5jykc8zh3.cloudfront.net/resources/mx/movies/posters/horizontal/204x102/"
+      }
+    },
+    {
+      "code":"ribbon",
+      "sizes":{
+        "medium":"https://dsoh5jykc8zh3.cloudfront.net/resources/mx/movies/ribbons/242x142/"
+      }
+    }
+  ]
+}

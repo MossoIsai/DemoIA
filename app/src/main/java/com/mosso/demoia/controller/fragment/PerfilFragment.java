@@ -13,6 +13,7 @@ import com.mosso.demoia.R;
 import com.mosso.demoia.http.HttpProfile;
 import com.mosso.demoia.http.RetrofitClient;
 import com.mosso.demoia.models.response.PerfilModel;
+import com.mosso.demoia.tools.AlertDialogLoading;
 import com.mosso.demoia.tools.Constantes;
 
 import java.util.HashMap;
@@ -34,6 +35,7 @@ public class PerfilFragment extends Fragment {
     @BindView(R.id.cardNumber) TextView lblTarjeta;
     private String accesToken;
     private String tokenType;
+    private AlertDialogLoading alertDialogLoading;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup viewGroup, Bundle savedInstanceState) {
@@ -46,6 +48,9 @@ public class PerfilFragment extends Fragment {
     }
 
     public void webServiceObtenerPerfil(String tokenType, String accesToken){
+        alertDialogLoading = new AlertDialogLoading(getActivity());
+        alertDialogLoading.messageDialog();
+
         HttpProfile httpProfile = RetrofitClient.getSharedInstance().create(HttpProfile.class);
         Map<String, String> map = new HashMap<>();
 
@@ -58,15 +63,18 @@ public class PerfilFragment extends Fragment {
                 Log.i("Correcto",response.body().getCardNumber());
                     lblUsuario.setText(response.body().getCardNumber());
                     lblTarjeta.setText(response.body().getEmail());
+                    alertDialogLoading.closeMessage();
                 }else{
                     Log.i("Error 1","Ocurrio un error:");
+                    alertDialogLoading.closeMessage();
+
 
                 }
             }
             @Override
             public void onFailure(Call<PerfilModel> call, Throwable t) {
                 Log.i("Error 2","Ocurrio un error:" +t.getMessage());
-
+                alertDialogLoading.closeMessage();
 
             }
         });

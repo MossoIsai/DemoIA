@@ -1,6 +1,8 @@
 package com.mosso.demoia.controller.activities;
 
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.Typeface;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -13,6 +15,7 @@ import com.mosso.demoia.http.HttpLogin;
 import com.mosso.demoia.http.RetrofitClient;
 import com.mosso.demoia.models.response.UsuarioModel;
 import com.mosso.demoia.tools.AlertDialogLoading;
+import com.mosso.demoia.tools.Constantes;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -78,6 +81,7 @@ public class LoginViewController extends AppCompatActivity {
                 if(response.code() == 200){
                     //Datos correctos
                     alertDialogLoading.closeMessage();
+                    saveDataSharedPreferences(response.body().getTokenType(),response.body().getAccessToken());
                     Intent  intent = new Intent(LoginViewController.this,BaseViewController.class);
                     startActivity(intent);
                 }else{
@@ -93,6 +97,12 @@ public class LoginViewController extends AppCompatActivity {
                 System.out.println("ERROR: ->"+t.getMessage());
             }
         });
+    }
+    public void saveDataSharedPreferences(String tokenType,String access_token ){
+        SharedPreferences.Editor editor = getSharedPreferences(Constantes.PREFERENCIAS, Constantes.MODE_PRIVATE).edit();
+        editor.putString("TOKEN_TYPE", tokenType);
+        editor.putString("ACCESS_TOKEN", access_token);
+        editor.commit();
     }
 
 }

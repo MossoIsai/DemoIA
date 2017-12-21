@@ -13,9 +13,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-
-
-
         <activity android:name=".controller.activities.LoginViewController"
             android:theme="@style/AppTheme.NoActionBar"
             android:screenOrientation="portrait"

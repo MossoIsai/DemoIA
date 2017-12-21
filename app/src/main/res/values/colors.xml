@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#23437c</color>
+    <color name="colorPrimaryDark">#214383</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="verde">#54b453</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="negro">#000000</color>
+    <color name="negroGrisado">#3C3D3D</color>
+    <color name="grisHint">#6d6e71</color>
+    <color name="gris_staticell_letter">#95959b</color>
+    <color name="gris_editext">#c8c8c8</color>
+    <color name="azul">#1ba2bd</color>
+    <color name="cinelis1">#23437c</color>
+    <color name="cinelis2">#214383</color>
+    <color name="amarillo">#f7d305</color>
+    <color name="grisLetter">#e0e0e0</color>
+
+</resources>

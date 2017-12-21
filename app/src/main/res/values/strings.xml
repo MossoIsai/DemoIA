@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoIA</string>
+    <string name="item_cartelera">Cartelera</string>
+    <string name="item_perfil">Perfil</string>
+    <string name="item_peliculas">Películas</string>
+    <string name="item_ubicacion">Ubicación</string>
+
+</resources>
